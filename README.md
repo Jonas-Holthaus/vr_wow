@@ -1,1 +1,1 @@
-# vr_wow
+# Unser Repo für für das VR-WOW Projekt
